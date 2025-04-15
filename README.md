@@ -10,13 +10,15 @@ Il vise à modéliser et analyser les relations dynamiques entre plusieurs indic
 .Utiliser les prévisions pour guider des décisions économiques
 
 📊 Technologies utilisées
-Python (pandas, statsmodels, matplotlib, seaborn)![Capture d’écran 2025-04-16 014923](https://github.com/user-attachments/assets/fe840191-64b6-458f-bdfe-7a9a2c4668f7)
-
+Python (pandas, statsmodels, matplotlib, seaborn)!
 Jupyter Notebook / Google Colab
 
 📁 Contenu du projet
-data/ : données économiques utilisées![Capture d’écran 2025-04-16 015155](https://github.com/user-attachments/assets/441f163c-3262-41e0-ae16-61ca59e2b21c)
-![Capture d’écran 2025-04-16 015223](https://github.com/user-attachments/assets/609ac88d-95b6-4d2c-b745-e0b131b04d72)
-
+data/ : données économiques utilisées!
 notebooks/ : analyses et visualisations
 var_model.py : implémentation du modèle VAR
+[Capture d’écran 2025-04-16 014923](https://github.com/user-attachments/assets/fe840191-64b6-458f-bdfe-7a9a2c4668f7)
+[Capture d’écran 2025-04-16 015155](https://github.com/user-attachments/assets/441f163c-3262-41e0-ae16-61ca59e2b21c)
+![Capture d’écran 2025-04-16 015223](https://github.com/user-attachments/assets/609ac88d-95b6-4d2c-b745-e0b131b04d72)
+
+
