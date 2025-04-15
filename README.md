@@ -19,6 +19,8 @@ Python (pandas, statsmodels, matplotlib, seaborn)![Capture d’écran 2025-04-16
 Jupyter Notebook / Google Colab
 
 📁 Contenu du projet
-data/ : données économiques utilisées
+data/ : données économiques utilisées![Capture d’écran 2025-04-16 015155](https://github.com/user-attachments/assets/441f163c-3262-41e0-ae16-61ca59e2b21c)
+![Capture d’écran 2025-04-16 015223](https://github.com/user-attachments/assets/609ac88d-95b6-4d2c-b745-e0b131b04d72)
+
 notebooks/ : analyses et visualisations
 var_model.py : implémentation du modèle VAR
