@@ -21,4 +21,4 @@ var_model.py : implémentation du modèle VAR
 ![Capture d’écran 2025-04-16 015155](https://github.com/user-attachments/assets/3fe6d2b4-22b7-4392-a0bf-b5781548327b)
 ![Capture d’écran 2025-04-16 015223](https://github.com/user-attachments/assets/a12b832c-c7b5-4bd4-84f5-55bc59bd6e30)
 
-
+![Capture d’écran 2025-04-16 014923](https://github.com/user-attachments/assets/0aa66797-787c-4fe9-a919-aa258ddd3058)
