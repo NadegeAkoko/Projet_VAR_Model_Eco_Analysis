@@ -17,8 +17,8 @@ Jupyter Notebook / Google Colab
 data/ : données économiques utilisées!
 notebooks/ : analyses et visualisations
 var_model.py : implémentation du modèle VAR
-[Capture d’écran 2025-04-16 014923](https://github.com/user-attachments/assets/fe840191-64b6-458f-bdfe-7a9a2c4668f7)
-[Capture d’écran 2025-04-16 015155](https://github.com/user-attachments/assets/441f163c-3262-41e0-ae16-61ca59e2b21c)
-![Capture d’écran 2025-04-16 015223](https://github.com/user-attachments/assets/609ac88d-95b6-4d2c-b745-e0b131b04d72)
+
+![Capture d’écran 2025-04-16 015155](https://github.com/user-attachments/assets/3fe6d2b4-22b7-4392-a0bf-b5781548327b)
+![Capture d’écran 2025-04-16 015223](https://github.com/user-attachments/assets/a12b832c-c7b5-4bd4-84f5-55bc59bd6e30)
 
 
